@@ -4,4 +4,4 @@
 > ./sdlpal.sh
 
 ## 截图
-[](./screenshot.png)
+![Alt text](./screenshot.png)
