@@ -1,7 +1,7 @@
-# 仙剑奇侠传SDL版 Linux_x64
+# 仙剑奇侠传 SDL Linux_x64
 
-运行：
->./sdlpal
+## 运行
+> ./sdlpal.sh
 
-��ͼ:
+## 截图
 [](./screenshot.png)
