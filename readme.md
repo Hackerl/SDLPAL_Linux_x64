@@ -1,7 +1,7 @@
-ÏÉ½£ÆæÏÀ´«SDL°æ Linux_x64
+# ä»™å‰‘å¥‡ä¾ ä¼ SDLç‰ˆ Linux_x64
 
-ÔËĞĞ£º
-    ./sdlpal
+è¿è¡Œï¼š
+>./sdlpal
 
 ½ØÍ¼:
 [](./screenshot.png)
